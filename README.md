@@ -8,8 +8,6 @@
   A really simple application that returns how many even numbers there are in a list
 </h4>
 
-
-
 ## :information_source: How To Use
 
 ```bash
@@ -33,7 +31,8 @@ Randomized with seed 114825
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/felipe-jm/gobarber-frontend-typescript/blob/master/LICENSE) for more information.
+
+This project is under the MIT license. See the [LICENSE](https://github.com/felipe-jm/ignite-elixir-challenge-01/blob/master/LICENSE) for more information.
 
 ---
 
